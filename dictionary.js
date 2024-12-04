@@ -51,7 +51,7 @@ export const dictionary = {
       { "id": 14, "english": "Beige", "spanish": "Beige", "example": "The walls are beige." },
       { "id": 15, "english": "Turquoise", "spanish": "Turquesa", "example": "The sea is turquoise." }
     ],
-    physical_descriptions: [
+  descriptions: [
       { "id": 1, "english": "Tall", "spanish": "Alto", "example": "He is tall and thin." },
       { "id": 2, "english": "Short", "spanish": "Bajo", "example": "She is short but strong." },
       { "id": 3, "english": "Slim", "spanish": "Delgado", "example": "He has a slim body." },
